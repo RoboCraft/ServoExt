@@ -1,0 +1,1 @@
+The same as Servo library for Arduino except of support for LineDriver interface, so you can control your servos through a shift register, for example, thus saving I/O pins for other purposes.
