@@ -4,7 +4,7 @@
  * I2C I/O extenders, or any other I/O bus for which you can implement the LineDriver interface.
  * 
  * Copyright (C) 2009 Michael Margolis
- * Copyright (C) 2011 Artem Borisovskiy (bytefu@gmail.com).
+ * Copyright (C) 2011 Artem Borisovskiy (bytefu@gmail.com), http://robocraft.ru
  * 
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
